@@ -1,0 +1,3 @@
+
+//API rest 
+npx json-server --watch database/db.json --port 3000
