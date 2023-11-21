@@ -32,7 +32,7 @@
 </div>
 <div class="form-group">
     <label for="Direccion">Direccion</label>
-    <input type="text" class="form-control" name="Direccion"
+    <input type="email" class="form-control" name="Direccion"
         value="{{ isset($cliente->direccion) ? $cliente->direccion :old('Direccion') }}" id="Direccion">
     <br>
 </div>

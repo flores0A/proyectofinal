@@ -1,3 +1,8 @@
 
 //API rest 
 npx json-server --watch database/db.json --port 3000
+
+//mailtrap  https://mailtrap.io/
+////////////////////////////////////////////////
+https://mailtrap.io/inboxes/2494903/messages/3859553609
+///////////////////////////
